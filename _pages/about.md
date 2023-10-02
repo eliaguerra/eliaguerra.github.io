@@ -19,8 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Elia! 
 
-I am an early-stage researcher at <a href='https://www.cttc.cat/'> Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)</a> and a PhD student at 
-<a href='https://www.upc.edu/en?set_language=en'>Universitat Politècnica de Catalunya (UPC)</a> for the <a href='https://greenedge-itn.eu/'>Greenedge ITN</a>. I am currently supervised by Dr. Paolo Dini and Dr. Marco Miozzo. My main interests are sustainable artificial intelligence and distributed machine learning algorithms.
+I am an early-stage researcher at <a href='https://www.cttc.cat/'> Centre Tecnològic de Telecomunicacions de Catalunya (CTTC)</a> for the <a href='https://greenedge-itn.eu/'>Greenedge ITN</a>. My main interests are sustainable artificial intelligence and distributed machine learning algorithms.
 
 Prior to this, I did my Master's in Computer Engineering and my Bachelor's in Information Engineering at the University of Padua. During these years, I developed a passion for machine learning and programming.
 
