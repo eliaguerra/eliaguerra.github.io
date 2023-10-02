@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cttc.cat/'>CTTC</a>. <a href='https://www.upc.edu/en?set_language=en'>UPC</a>. Castelldefels, Spain. 
+subtitle: <a href='https://www.cttc.cat/'>CTTC</a>. Castelldefels, Spain. 
 profile:
   align: right
   image: prof_pic.jpg
